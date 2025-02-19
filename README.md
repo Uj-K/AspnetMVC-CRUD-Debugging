@@ -1,6 +1,6 @@
 # CPW219-AspnetMVC-CRUD-Debugging
 
-CPW 219 ASP.NET MVC Core website with some bugs and needs fixing
+CPW 219 ASP.NET MVC Core website had some bugs and needs fixing
 
 # Tasks
 - You can download a zip file of the project and upload it to your own GitHub account to manage your work in source control or choose the "Use this template" button to make a copy in your account
@@ -15,3 +15,7 @@ CPW 219 ASP.NET MVC Core website with some bugs and needs fixing
     - [ ] Index (List/Select)
     - [ ] Update
     - [ ] Delete
+
+# Result
+![image](https://github.com/user-attachments/assets/0f268508-c27f-4d01-9fd0-336a950d1595)
+
